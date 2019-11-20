@@ -1,0 +1,16 @@
+{
+  "id": "1507946",
+  "name": "贝彩",
+  "font_family": "icon",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6928866",
+      "name": "铃铛",
+      "font_class": "lingdang",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    }
+  ]
+}
